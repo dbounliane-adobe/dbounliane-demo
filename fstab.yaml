@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/dbounliane-adobe/dbounliane-demo/
+    type: markup
+
+folders:
+  /products/: /products/default
